@@ -1,0 +1,3 @@
+include:
+  - project: 'ci/templates'
+    file: 'python/black.yml'
